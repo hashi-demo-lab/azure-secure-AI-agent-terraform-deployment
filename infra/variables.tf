@@ -6,13 +6,13 @@ variable "region" {
 //vault address
 variable "vault_addr" {
   type    = string
-  default = "https://vault-public-vault-568210d2.b06d58cb.z1.hashicorp.cloud:8200"
+  default = "https://vault-public-vault-MY_VAULT.hashicorp.cloud:8200" # Replace with your actual Vault address
 }
 //vault token
 variable "vault_token" {
   type      = string
   sensitive = true
-  default   = "hvs.CAESIA2BwT1Pay35mUj3nZpZQZ60gU8DjqzZqA8XWoL1ApgVGikKImh2cy56RkpkcEU4MFpDeXFFbnJwVFBqZ1Y2U1IuVWhUQTcQwcfLCg"  # Replace with your actual Vault token
+  default   = "token_value"  # Replace with your actual Vault token
 }
 //vault namespace
 variable "vault_namespace" {
