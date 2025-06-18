@@ -46,7 +46,8 @@ This sample application deploys an AI-powered application with a database a clau
 
 ## Run the AI.
 - In the chatbot, is a seeded dataset on population. The application will process inputs and allow you to ask questions based on their content.
-- For example, you can ask questions like  "What is the population of China? in the database compared with current online data and calulate the difference".
+- For example, you can ask questions like  "What is the population of China in the database compared with current online data and calculate the difference?".
+- You Can also use the "Test Vault" button to get all the info about the Vault session.
 
 ## Clean up
 
