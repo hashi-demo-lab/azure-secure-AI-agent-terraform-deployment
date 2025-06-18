@@ -21,8 +21,9 @@ This sample application deploys an AI-powered application with a database a clau
 
 - Clone or fork this repository. 
    ```
-   git clone https://github.com/dawright22/azure-agentic-ai.git
-   cd azure-agentic-ai
+   git clone https://github.com/dawright22/azure-secure-AI-agent-terraform-deployment.git
+   cd azure-secure-AI-agent-terraform-deployment
+
    ```
 
 - Go to the `infra` folder and run the following command to initialize your working directory.
